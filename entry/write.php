@@ -42,7 +42,7 @@ $auto_reply_subject = '【Gsテスト】ご登録ありがとうございます�
 $auto_reply_text = "*注意*Gs課題のテストメールです" . "\n";
 $auto_reply_text .= "ログインID" . "$lid" . "様" . "\n\n";
 $auto_reply_text .= "登録完了しました。" . "\n";
-$auto_reply_text .= "より多くの案件を受け取るために" . 'https://freddy.sakura.ne.jp/kadai10/4_1login.php' .  "よりログインし、情報を追加してください。" . "\n\n";
+$auto_reply_text .= "より多くの案件を受け取るために" . 'https://freddy.sakura.ne.jp/kadai11/userpage/login.php' .  "よりログインし、情報を追加してください。" . "\n\n";
 $auto_reply_text .= "hogehoge。";
 
 // メール送信
@@ -71,7 +71,7 @@ $auto_reply_subject = '【Gsテスト】'.$name.'様から登録がありまし�
 $auto_reply_text  = "*注意*Gs課題のテストメールです" . "\n";
 $auto_reply_text .= "ご担当者様" . "\n\n";
 $auto_reply_text .= "ログインID" . "$lid". "様から登録がありました。" . "\n";
-$auto_reply_text .= "対応をお願いいたします。". 'https://freddy.sakura.ne.jp/kadai10/13_manager_login.php'  . "\n\n";
+$auto_reply_text .= "対応をお願いいたします。". 'https://freddy.sakura.ne.jp/kadai11/managerpage/manager_login.php'  . "\n\n";
 $auto_reply_text .= "hogehoge。";
 
 // メール送信

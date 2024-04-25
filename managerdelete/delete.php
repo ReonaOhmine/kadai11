@@ -1,9 +1,11 @@
 <?php
+session_start();
 //1. POSTデータ取得
 $id = $_GET["id"];
 
 //2. DB接続します
 include("../funcs.php");
+// sschk();
 $pdo = db_conn();
 
 //３．データ登録SQL作成
@@ -15,6 +17,6 @@ $status = $stmt->execute(); //実行
 if($status==false){
   sql_error($stmt);
 }else{
-  redirect("/managerpage/select.php");
+  redirect("../managerpage/select.php");
 }
 ?>

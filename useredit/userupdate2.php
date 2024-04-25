@@ -1,7 +1,4 @@
 <?php
-ini_set('display_errors', 1);
-error_reporting(E_ALL);
-
 session_start();
 
 //POST値
@@ -47,14 +44,13 @@ $val = $stmt->fetch(PDO::FETCH_ASSOC);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="./css_folder/select.css">
     <title>登録情報修正完了</title>
-    <link rel="stylesheet" href="./css_folder/select.css">
+    <link rel="stylesheet" href="../css_folder/select.css">
 </head>
 <body>
     <P>修正完了しました</P>
     <!-- <a href="11_userdetail.php?id=<?php $val['id'] ?>">戻る</a> -->
-    <a href="/userpage/logout.php">ログアウト</a>
+    <a href="../userpage/logout.php">ログアウト</a>
 
 </body>
 </html>

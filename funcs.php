@@ -52,7 +52,7 @@ function calculateAge($birthdate){
 
 //SessionCheck(スケルトン)
 function sschk(){
-    // var_dump($_SESSION["chk_ssid"]);
+    var_dump($_SESSION["chk_ssid"]);
     if (!isset($_SESSION["chk_ssid"]) || $_SESSION["chk_ssid"] != session_id()) {
       exit("Login Error");
     } else {

@@ -27,7 +27,7 @@ $values     =  $stmt->fetchAll(PDO::FETCH_ASSOC);
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>管理画面</title>
-    <link rel="stylesheet" href="/css_folder/select.css">
+    <link rel="stylesheet" href="../css_folder/select.css">
 </head>
 
 <body id="main">

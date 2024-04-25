@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>【ユーザー様向け】ボーナスが出るフリーランス案件|株式会社Freddy </title>
-  <link rel="stylesheet" href="/css_folder/reset.css">
-  <link rel="stylesheet" href="/css_folder/style.css">
+  <link rel="stylesheet" href="../css_folder/reset.css">
+  <link rel="stylesheet" href="../css_folder/style.css">
 </head>
 
 <body>
@@ -15,7 +15,7 @@
   <header>
     <div class="header_contents">
       <div class="headerIcon">
-        <img src="/image/freddylogo.png" alt="freddy" width="250">
+        <img src="../image/freddylogo.png" alt="freddy" width="250">
       </div>
       <ul>
         <li>
@@ -26,7 +26,7 @@
           </a>
         </li>
         <li>
-          <a href="/entry/entry.php" class="entry">
+          <a href="entry.php" class="entry">
             <div class="btnText">
               <p>たった30秒で<span class="bigText">無料登録</span></p>
             </div>
@@ -41,24 +41,24 @@
   <section class="topView">
     <div class="topLeft">
       <div class="fukidashi">
-        <img src="/image/fukidashi.png" alt="">
+        <img src="../image/fukidashi.png" alt="">
         <p> "業界最安"水準の手数料で、<br>ユーザー様に最大還元！</p>
       </div>
       <div class="topMessage">
-        <img src="/image/topMessage.png" alt="">
-        <img src="/image/topmessage2.png" alt="">
+        <img src="../image/topMessage.png" alt="">
+        <img src="../image/topmessage2.png" alt="">
 
       </div>
     </div>
     <div class="topRight">
-      <img src="/image/topicon.png" alt="" width="500px">
+      <img src="../image/topicon.png" alt="" width="500px">
     </div>
   </section>
 
   <div class="cv">
-    <img class="cvImg" src="/image/bottunmessage.png" alt=""><br>
+    <img class="cvImg" src="../image/bottunmessage.png" alt=""><br>
     <div class="cvBtn">
-      <a href="/entry/entry.php" class="entry">
+      <a href="entry.php" class="entry">
         <div class="btnText">
           <p>たった30秒で<span class="bigText">無料登録</span></p>
         </div>
@@ -69,7 +69,7 @@
   <!-- メッセージ -->
   <section class="Message_section">
     <div class="messageLeft">
-      <img src="/image/messageicon.png" alt="" width="500px">
+      <img src="../image/messageicon.png" alt="" width="500px">
     </div>
     <div class="messageRight">
       <h2>FreelanceのBuddyに</h2>
@@ -106,7 +106,7 @@
             ユーザー様への還元を最優先に考え、フリーランスの手取り報酬UPをサポートいたします。</p>
         </div>
         <div class="strongContentsRight">
-          <img src="/image/strong1.png" alt="" width="300px">
+          <img src="../image/strong1.png" alt="" width="300px">
         </div>
       </div>
       <div class="strongContents">
@@ -121,7 +121,7 @@
             ユーザー様への還元を最優先に考え、フリーランスの手取り報酬UPをサポートいたします。</p>
         </div>
         <div class="strongContentsRight">
-          <img src="/image/strong2.png" alt="" width="300px">
+          <img src="../image/strong2.png" alt="" width="300px">
         </div>
       </div>
       <div class="strongContents">
@@ -136,15 +136,15 @@
             ユーザー様への還元を最優先に考え、フリーランスの手取り報酬UPをサポートいたします。</p>
         </div>
         <div class="strongContentsRight">
-          <img src="/image/strong3.png" alt="" width="300px">
+          <img src="../image/strong3.png" alt="" width="300px">
         </div>
       </div>
     </div>
 
     <div class="cv">
-      <img class="cvImg" src="/image/bottunmessage.png" alt=""><br>
+      <img class="cvImg" src="../image/bottunmessage.png" alt=""><br>
       <div class="cvBtn">
-        <a href="/entry/entry.php" class="entry">
+        <a href="entry.php" class="entry">
           <div class="btnText">
             <p>たった30秒で<span class="bigText">無料登録</span></p>
           </div>
@@ -165,7 +165,7 @@
       <p>※一例です（詳細は担当エージェントにお聞きください）</p>
     </div>
     <div class="differenceBottom">
-      <img src="/image/chigai.png" alt="">
+      <img src="../image/chigai.png" alt="">
       <div class="differenceBottomText">
         <h3>「同じ業務」「同じポジション」なのに、Freddy経由なら、圧倒的に手取りがUP!!</h3><br>
         <p>もちろん元の稼働単価も高単価。手数料は手数料は全て公開しています！<br>
@@ -177,9 +177,9 @@
   </section>
 
   <div class="cv">
-    <img class="cvImg" src="/image/bottunmessage.png" alt=""><br>
+    <img class="cvImg" src="../image/bottunmessage.png" alt=""><br>
     <div class="cvBtn">
-      <a href="/entry/entry.php" class="entry">
+      <a href="entry.php" class="entry">
         <div class="btnText">
           <p>たった30秒で<span class="bigText">無料登録</span></p>
         </div>
@@ -194,7 +194,7 @@
       <p>もちろん月々の稼働単価も高単価案件ばかり！</p>
     </div>
     <div class="ankenWrapper">
-      <img src="/image/left.png" alt="" height="200px">
+      <img src="../image/left.png" alt="" height="200px">
       <div class="ankenDetail">
         <div class="ankenContents">
           <h4>コスメショッピングアプリの開発</h4>
@@ -264,14 +264,14 @@
         </div>
 
       </div>
-      <img src="/image/right.png" alt="" height="200px">
+      <img src="../image/right.png" alt="" height="200px">
     </div>
   </section>
 
   <div class="cv">
-    <img class="cvImg" src="/image/bottunmessage.png" alt=""><br>
+    <img class="cvImg" src="../image/bottunmessage.png" alt=""><br>
     <div class="cvBtn">
-      <a href="/entry/entry.php" class="entry">
+      <a href="entry.php" class="entry">
         <div class="btnText">
           <p>たった30秒で<span class="bigText">無料登録</span></p>
         </div>
@@ -290,7 +290,7 @@
       <div class="nagareContentsSet">
         <div class="nagareContents">
           <div class="nagareImg">
-            <img src="/image/nagare1.png" alt="" width="100px" class="nagareImgInner">
+            <img src="../image/nagare1.png" alt="" width="100px" class="nagareImgInner">
           </div>
           <div class="nagareText">
             <div class="nagareTexttitle">
@@ -303,7 +303,7 @@
 
         <div class="nagareContents">
           <div class="nagareImg">
-            <img src="/image/nagare2.png" alt="" width="100px" class="nagareImgInner">
+            <img src="../image/nagare2.png" alt="" width="100px" class="nagareImgInner">
           </div>
           <div class="nagareText2">
             <div class="nagareTexttitle">
@@ -318,7 +318,7 @@
       <div class="nagareContentsSet">
         <div class="nagareContents">
           <div class="nagareImg">
-            <img src="/image/nagare3.png" alt="" width="100px" class="nagareImgInner">
+            <img src="../image/nagare3.png" alt="" width="100px" class="nagareImgInner">
           </div>
           <div class="nagareText">
             <div class="nagareTexttitle">
@@ -331,7 +331,7 @@
 
         <div class="nagareContents">
           <div class="nagareImg">
-            <img src="/image/nagare4.png" alt="" width="100px" class="nagareImgInner">
+            <img src="../image/nagare4.png" alt="" width="100px" class="nagareImgInner">
           </div>
           <div class="nagareText2">
             <div class="nagareTexttitle">
@@ -346,7 +346,7 @@
       <div class="nagareContentsSet">
         <div class="nagareContents">
           <div class="nagareImg">
-            <img src="/image/nagare5.png" alt="" width="100px" class="nagareImgInner">
+            <img src="../image/nagare5.png" alt="" width="100px" class="nagareImgInner">
           </div>
           <div class="nagareText">
             <div class="nagareTexttitle">
@@ -359,7 +359,7 @@
 
         <div class="nagareContents">
           <div class="nagareImg">
-            <img src="/image/nagare6.png" alt="" width="100px" class="nagareImgInner">
+            <img src="../image/nagare6.png" alt="" width="100px" class="nagareImgInner">
           </div>
           <div class="nagareText2">
             <div class="nagareTexttitle">
@@ -395,35 +395,6 @@
       </div>
     </div>
   </footer>
-
-
-  <!--Import Google Icon Font-->
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-  <div id="chatbot">
-
-    <div id="chatbot-header">
-      <div id="chatbot-logo">QA 拡大ボタンを押してください→
-      </div>
-      <i id="chatbot-zoom-icon" class="material-icons waves-effect waves-light" onclick="chatbotZoom()">fullscreen</i>
-    </div>
-
-    <div id="chatbot-body">
-      <ul id="chatbot-ul"></ul>
-    </div>
-
-    <!--入力場所，送信ボタン-->
-    <form onsubmit="return false">
-      <div id="chatbot-footer">
-        <input type="text" id="chatbot-text" class="browser-default" placeholder="はい/いいえ">
-        <input type="submit" value="送信" id="chatbot-submit">
-      </div>
-    </form>
-
-  </div>
-
-
-  <script src="main.js"></script>
 
 </body>
 

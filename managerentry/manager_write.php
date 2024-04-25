@@ -26,7 +26,7 @@ $status = $stmt->execute();
 if ($status == false) {
      sql_error($stmt);
 } else {
-    redirect("/managerpage/manager_login.php");
+    redirect("../managerpage/manager_login.php");
 }
 
 ?>

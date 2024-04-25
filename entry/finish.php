@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>会員登録完了</title>
-    <link rel="stylesheet" href="/css_folder/style.css">
+    <link rel="stylesheet" href="../css_folder/style.css">
 </head>
 
 <header>
@@ -30,10 +30,6 @@
             また、ドメイン指定をされている場合は、<br>
             「@freddy.co.jp」からのメールが受信できるよう<br>
             あらかじめ設定をお願いいたします。</p>
-    </div>
-
-    <div>
-        <a href="5_select.php" class="select">（本来は非表示）会員管理画面</a>
     </div>
 </body>
 

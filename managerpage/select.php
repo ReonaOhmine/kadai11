@@ -26,7 +26,7 @@ $values =  $stmt->fetchAll(PDO::FETCH_ASSOC); //PDO::FETCH_ASSOC[カラム名の
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>管理画面</title>
-    <link rel="stylesheet" href="/css_folder/select.css">
+    <link rel="stylesheet" href="../css_folder/select.css">
 </head>
 
 <body id="main">
@@ -77,8 +77,8 @@ $values =  $stmt->fetchAll(PDO::FETCH_ASSOC); //PDO::FETCH_ASSOC[カラム名の
                         <td><?= h($v["experience"]) ?></td>
                         <td><?= h($v["indate"]) ?></td>
                         <?php if ($_SESSION["flag"] == "管理者") {  ?>
-                            <td><a href="/manageredit/detail.php?id=<?= h($v["id"]) ?>">🖊</a></td>
-                            <td><a href="/managerdelete/deletecheck.php?id=<?= h($v["id"]) ?>">🗑</a></td>
+                            <td><a href="../manageredit/detail.php?id=<?= h($v["id"]) ?>">🖊</a></td>
+                            <td><a href="../managerdelete/deletecheck.php?id=<?= h($v["id"]) ?>">🗑</a></td>
                         <?php } ?>
 
 

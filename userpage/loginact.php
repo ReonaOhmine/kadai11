@@ -41,7 +41,7 @@ if ($lpw === $val["lpw"]) {
   // セッション変数にユーザー情報を保存
   $_SESSION["chk_ssid"] = session_id();
   // Login成功時
-  redirect("/useredit/userdetail.php". "?id=".$val['id']);
+  redirect("../useredit/userdetail.php". "?id=".$val['id']);
 } else {
   // Login失敗時(login.phpへ)
   redirect("login.php");

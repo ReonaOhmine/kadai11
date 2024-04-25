@@ -30,6 +30,6 @@ $status = $stmt->execute(); //実行
 if ($status == false) {
      sql_error($stmt);
 } else {
-    redirect("/managerpage/select.php");
+    redirect("../managerpage/select.php");
 }
 ?>

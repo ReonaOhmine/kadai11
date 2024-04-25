@@ -35,7 +35,7 @@ $v =  $stmt->fetch(); //PDO::FETCH_ASSOC[カラム名のみで取得できるモ
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>会員情報修正</title>
-    <link rel="stylesheet" href="/css_folder/style.css">
+    <link rel="stylesheet" href="../css_folder/style.css">
 </head>
 
 <header>
