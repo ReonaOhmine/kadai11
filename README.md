@@ -14,6 +14,11 @@ https://freddy.sakura.ne.jp/kadai11/userpage/login.php
 https://freddy.sakura.ne.jp/kadai11/managerpage/manager_login.php
 
 ## ④工夫した点・こだわった点
+- 誕生日をいれると管理画面で計算されて年齢も表示されるようにしたこと
+- 登録完了後、自動でメールが送信されるようにしたこと
+- データベースの検索画面を入れたこと
+- functionでできるだけ重複コードを少なくしたこと
+- 削除するまえに、本当にいいですか？確認を入れたこと
 - ページ数が多くなることが予想されたので、取り組む前に、スプシで整理した（自分だけわかればいいと思ったので、内容は分かりづらくてすみません・・・） 　　https://docs.google.com/spreadsheets/d/12_gNrH-YqjvVqBbk4z9FbkMVArR9Cv-LsUNsV842BFM/edit?pli=1#gid=0
 - 会員登録時は最小限の入力項目にして、ユーザーの負担にならないようにした
 - その後、ログインした後に情報追加できるようにして、管理者側の欲しい情報が取得できるようにした（会員登録時に入力したメールアドレスだけすでにデータが入っているようにした）
